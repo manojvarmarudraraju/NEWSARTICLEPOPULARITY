@@ -1,0 +1,10 @@
+{'url': 0.032, 'com': 0.019, 'ndtv': 0.019, 'http': 0.017, 'ist': 0.017, 'india': 0.017, 'news': 0.016, 'www': 0.016, 'var': 0.016, 'updat': 0.016}
+{'s': 0.013, 'rs': 0.013, 'per': 0.011, 'year': 0.01, 'said': 0.01, 'cent': 0.009, '1': 0.008, 'india': 0.007, 'crore': 0.006, 'day': 0.006}
+{'can': 0.008, '?': 0.007, 'flood': 0.007, 'said': 0.007, 'health': 0.006, '?': 0.006, 'jamun': 0.006, 'also': 0.006, 'peopl': 0.006, 'googletag': 0.006}
+{'s': 0.017, 'elect': 0.015, 'bjp': 0.015, 'minist': 0.014, 'parti': 0.014, 'congress': 0.014, 'said': 0.013, 'modi': 0.013, 'gandhi': 0.01, 'will': 0.01}
+{'s': 0.021, 'said': 0.017, 'trump': 0.007, 'pakistan': 0.007, 'us': 0.006, 'india': 0.006, 'presid': 0.006, 'googletag': 0.005, 'push': 0.004, 'countri': 0.004}
+{'said': 0.021, 'polic': 0.021, 's': 0.012, 'googletag': 0.012, 'push': 0.007, 'function': 0.006, 'display': 0.006, 'cmd': 0.006, 'case': 0.006, 'arrest': 0.006}
+{'said': 0.017, 'minist': 0.015, 'govern': 0.015, 's': 0.012, 'congress': 0.012, 'mr': 0.011, 'bjp': 0.01, 'googletag': 0.008, 'will': 0.008, 'chief': 0.008}
+{'s': 0.018, 't': 0.007, 'googletag': 0.007, 'will': 0.006, '2': 0.006, 'push': 0.005, 'india': 0.005, 'run': 0.005, 'said': 0.005, 'film': 0.005}
+{'post': 0.023, 's': 0.019, 'share': 0.016, '?': 0.012, 'film': 0.01, '_price': 0.009, 'pictur': 0.008, '2019': 0.008, 'kapoor': 0.007, '?': 0.007}
+{'court': 0.022, 'said': 0.012, 'googletag': 0.01, 'delhi': 0.009, 'will': 0.007, 's': 0.006, 'result': 0.006, 'student': 0.006, 'case': 0.006, 'function': 0.006}
